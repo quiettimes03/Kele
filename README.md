@@ -6,14 +6,13 @@ Kele A Ruby Gem API client that allows authorized users to access the Bloc API. 
 
 Add this line to your application's Gemfile:
 
-gem 'kele'
+`gem 'kele'`
 And then execute:
 
-$ bundle
+`$ bundle`
 Or install it yourself as:
 
-$ gem install kele
-Usage
+`$ gem install kele`
 
 
 # Development
